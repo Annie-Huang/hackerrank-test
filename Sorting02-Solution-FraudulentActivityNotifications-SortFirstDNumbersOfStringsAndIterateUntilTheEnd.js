@@ -24,6 +24,8 @@ function readLine() {
     return inputString[currentLine++];
 }
 
+////////////////////////////////////////////////////////////////////
+
 // Complete the activityNotifications function below.
 // unfinished code....
 function activityNotifications1(expenditure, d) {
@@ -197,6 +199,7 @@ function findMedianFromArray(array, d) {
 
 }
 
+////////////////////////////////////////////////////////////////////
 
 function main() {
     const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
