@@ -1,6 +1,6 @@
 https://www.hackerrank.com/interview/interview-preparation-kit
 
-The Sorting: Comparator under Sorting does not have javascript edictor.
+The Sorting: Comparator under Sorting does not have javascript editor.
 
 
 Need to open these links in window for preparation:
