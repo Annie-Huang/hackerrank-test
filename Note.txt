@@ -1,4 +1,9 @@
 https://www.hackerrank.com/interview/interview-preparation-kit
+using my gmail account to login.
+
+Try to do this one next:
+https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+Practice > Interview Preparation Kit > Dictionaries and Hashmaps > Frequency Queries
 
 The Sorting: Comparator under Sorting does not have javascript editor.
 
